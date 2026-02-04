@@ -1,0 +1,8 @@
+
+<resources>
+    <color name="primary_green">#2E7D32</color>
+    <color name="income_green">#4CAF50</color>
+    <color name="expense_red">#E53935</color>
+    <color name="savings_orange">#FB8C00</color>
+    <color name="background_light">#F5F5F5</color>
+</resources>

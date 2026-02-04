@@ -1,0 +1,23 @@
+
+<resources>
+    <string name="app_name">আমার হিসাব</string>
+    <string name="home">হোম</string>
+    <string name="dues">বাকি</string>
+    <string name="savings">সঞ্চয়</string>
+    <string name="profile">প্রোফাইল</string>
+    <string name="income">আয়</string>
+    <string name="expense">ব্যয়</string>
+    <string name="receivable">আমি পাব</string>
+    <string name="payable">আমার কাছে পাবে</string>
+    <string name="balance">বর্তমান ব্যালেন্স</string>
+    <string name="total_income">মোট আয়</string>
+    <string name="total_expense">মোট ব্যয়</string>
+    <string name="add_transaction">হিসাব যোগ করুন</string>
+    <string name="note">নোট (ঐচ্ছিক)</string>
+    <string name="amount">পরিমাণ</string>
+    <string name="category">ক্যাটাগরি</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="backup">ব্যাকআপ</string>
+    <string name="restore">রিস্টোর</string>
+</resources>

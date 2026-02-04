@@ -1,0 +1,7 @@
+{
+  "name": "আমার হিসাব (Amar Hisab)",
+  "description": "A comprehensive personal finance manager for Bengali users, featuring income/expense tracking, ledger for dues, savings management, and offline JSON backup.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
